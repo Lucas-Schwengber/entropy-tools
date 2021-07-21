@@ -8,5 +8,7 @@ The evaluation of the matrix exponential is not substancially optimized in this 
 
 If you have any questions/remarks send me an email: lucaschwengber@hotmail.com.
 
+Python 3.6.9, Networkx version 2.5.
+
 The idea of sharing the code on git-hub and the style of the graphs was heavily inspired by:
 https://github.com/barahona-research-group/MultiscaleCentrality
